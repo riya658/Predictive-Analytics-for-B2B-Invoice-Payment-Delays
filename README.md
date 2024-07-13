@@ -2,7 +2,7 @@
 This project focuses on predicting delays in B2B invoice payments using machine learning techniques. The main goal is to provide insights and accurate predictions to help businesses manage their cash flow and improve financial planning.
 
 ## Key Steps and Achievements
-- Data Cleaning and Feature Engineering:
+1. Data Cleaning and Feature Engineering:
 - Managed a dataset with 50,000 rows, handling missing values and preparing it for modeling.
 - Conducted feature engineering and trend visualization to identify key factors influencing payment delays.
 - Exploratory Data Analysis (EDA):
