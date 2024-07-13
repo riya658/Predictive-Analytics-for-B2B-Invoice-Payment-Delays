@@ -20,3 +20,10 @@ This project focuses on predicting delays in B2B invoice payments using machine 
 - Pandas: For data cleaning and preprocessing.
 - Seaborn: For data visualization.
 - Scikit-Learn: For implementing machine learning algorithms.
+
+## Conlusions
+- Utilized machine learning model to predict payment delays for B2B invoices, improving accounts receivable processes.
+- Cleaned and preprocessed a dataset with 50,000 rows to prepare for predictive modeling, including handling missing values and feature engineering.
+- Performed exploratory data analysis and visualized data trends to identify key factors influencing invoice payment delays.
+- Engineered features, transformed data types, and scaled variables for effective model training and evaluation.
+- Implemented and evaluated various machine learning algorithms, achieving high accuracy in predicting invoice payment delays.
