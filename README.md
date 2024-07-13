@@ -3,9 +3,9 @@ This project focuses on predicting delays in B2B invoice payments using machine 
 
 ## Key Steps and Achievements
 - Data Cleaning and Feature Engineering:
--- Managed a dataset with 50,000 rows, handling missing values and preparing it for modeling.
--- Conducted feature engineering and trend visualization to identify key factors influencing payment delays.
--- Exploratory Data Analysis (EDA):
+- Managed a dataset with 50,000 rows, handling missing values and preparing it for modeling.
+- Conducted feature engineering and trend visualization to identify key factors influencing payment delays.
+- Exploratory Data Analysis (EDA):
 
 Performed EDA to uncover patterns and relationships in the data.
 Visualized data trends to better understand the factors affecting invoice payment delays.
